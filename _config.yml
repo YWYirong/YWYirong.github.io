@@ -20,7 +20,8 @@
 
 title: Yirong's Resume Site
 email: wangy27@myumanitoba.ca
-#description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
+Yirong Wang 2023
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
