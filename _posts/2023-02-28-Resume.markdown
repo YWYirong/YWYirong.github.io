@@ -7,8 +7,8 @@ categories: jekyll update
 
 # Yirong Wang
 
-Email: wangy27@myumanitoba.ca
-    [Linkedin]: (linkedin.com/in/yirongwangcs)
+Email: wangy27@myumanitoba.ca<br>
+Linkedin: linkedin.com/in/yirongwangcs
 
 ## Education
 
