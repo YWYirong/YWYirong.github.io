@@ -8,11 +8,11 @@ categories: jekyll update
 # Yirong Wang (she/her)
 
 ```
-204-557-7784|wangy27@myumanitoba.ca|linkedin.com/in/yirongwangcs|github.com/YirongWangCS
+204-557-7784|wangy27@myumanitoba.ca|linkedin.com/in/yirongwangcs
 ```
 ## Education
 
-### University of Manitoba Winter 2020
+### University of Manitoba (Winter 2020)
 
 ```
 Bachelor of Science - Computer Science Major(Co-op option) Winnipeg, MB
@@ -25,7 +25,7 @@ Developer Tools: Google Cloud Platform, VS Code, Visual Studio, IntelliJ
 ```
 ## Experience
 
-### Price Change Clerk & Cashier Apr 2021 – Present
+### Price Change Clerk & Cashier (Apr 2021 – Present)
 
 ```
 Save-On-Foods Winnipeg, MB
@@ -58,14 +58,14 @@ Restaurants on Campus|HTML, CSS, JavaScript
 
 ## Extracurricular involvement and Volunteer Experience
 
-### Member of WICS(Women in Computer Science) January 2020
+### Member of WICS(Women in Computer Science) (January 2020)
 
 ```
 University of Manitoba
 ```
 - Participated in many events organized by WICS including various workshops, mentor mingle, and volunteer events
 
-### Volunteer for WICS x CanU Web Development workshop July 2022
+### Volunteer for WICS x CanU Web Development workshop (July 2022)
 
 ```
 University of Manitoba Winnipeg, MB
@@ -73,7 +73,7 @@ University of Manitoba Winnipeg, MB
 - Assisted students in developing their own web projects using codesandbox
 - Helped students in troubleshooting any issues they encountered
 
-### Orientation Ambassador/ Table Leader January 2023
+### Orientation Ambassador/ Table Leader (January 2023)
 
 ```
 University of Manitoba Winnipeg, MB
