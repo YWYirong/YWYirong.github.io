@@ -7,9 +7,9 @@ categories: jekyll update
 
 # Yirong Wang
 
-```
-204-557-7784|wangy27@myumanitoba.ca|linkedin.com/in/yirongwangcs
-```
+Email: wangy27@myumanitoba.ca|
+[Linkedin]: (linkedin.com/in/yirongwangcs)
+
 ## Education
 
 ### University of Manitoba (Winter 2020)
