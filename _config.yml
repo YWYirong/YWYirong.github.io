@@ -30,7 +30,7 @@ github_username:  jekyll
 # Build settings
 theme: minima
 minima:
-  skin: dark
+  skin: solarized
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
