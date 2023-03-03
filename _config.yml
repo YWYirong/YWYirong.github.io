@@ -29,6 +29,8 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
