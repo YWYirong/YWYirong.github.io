@@ -27,7 +27,6 @@ Here is a quick overview of when the project is finished:
 
 2. Name the repository *username.github.io*, and replace the username with your Github username.
 ```
-
 The first part of repository name has to match your username, otherwise it won't work.
 ```
 
