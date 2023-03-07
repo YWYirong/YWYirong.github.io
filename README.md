@@ -10,9 +10,8 @@ The purpose of the project is to show you step by step on how to use Github Page
 * A text editor
 
 ## Instructions
-
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+### 1. Create a repository 
+Create a new repository on Github, name the repository username.github.io
 
 ```shell
 packagemanager install awesome-project
@@ -21,6 +20,9 @@ awesome-project "Do something!"  # prints "Nah."
 ```
 
 Here you should say what actually happens when you execute the code above.
+
+## More Resources
+
 
 ## Authors and Acknowledgments
 
