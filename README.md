@@ -123,6 +123,8 @@ categories: CATEGORY-1
 ## Authors and Acknowledgments
 Thanks to Jesse Luoto for [README](https://github.com/jehna/readme-best-practices) template. And thanks [LICEcap](https://www.cockos.com/licecap/) for the gif generation and screen capture tool.
 
+Thanks to [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for instructing me on how to create a Github Pages with Jekyll in the first place.
+
 And thanks to Reviewers:
 (insert group members for v2)
 
