@@ -3,8 +3,6 @@ layout: page
 
 ---
 
-# Yirong Wang
-
 Email: wangy27@myumanitoba.ca<br>
 
 ## Education
