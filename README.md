@@ -23,18 +23,20 @@ Here is a quick overview of when the project is finished:
 
 ### 1. Create a repository
 
-Create a new repository on Github by clicking on the "+" icon in the upper right corner of the Github homepage and selecting "New Repository". Name the repository *username.github.io*, and replace the username with your Github username.
+1. Create a new repository on Github by clicking on the "+" icon in the upper right corner of the Github homepage and selecting "New Repository". 
+
+2. Name the repository *username.github.io*, and replace the username with your Github username.
 ```
 
 The first part of repository name has to match your username, otherwise it won't work.
+```
 
-```
 ### 2. Clone the repository
-If you are using terminal: go to the folder where you want your project to be stored, and then use 
-```shell
-git clone https://github.com/username/username.github.io
-```
-If you are using [GitHub Desktop](https://desktop.github.com/): Click the "set up in Desktop" button shown in the repository on GitHub website, then it will open GitHub Desktop, and save the project.
+* If you are using terminal: go to the folder where you want your project to be stored, and then use 
+	```shell
+	git clone https://github.com/username/username.github.io
+	```
+* If you are using [GitHub Desktop](https://desktop.github.com/): Click the "set up in Desktop" button shown in the repository on GitHub website, then it will open GitHub Desktop, and save the project.
 
 ### 3. Install Jekyll
 * About Jekyll: Jekyll is a tool for generating static websites that come with integrated GitHub Pages support and a streamlined building process.
