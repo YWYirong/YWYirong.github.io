@@ -22,7 +22,7 @@ The purpose of the project is to show you step by step on how to use Github Page
 
 ## Instructions
 Here is a quick overview when the project is finish:
-![ website](resume. gif) / ! [](resume. gif)
+![resume](https://github.com/YWYirong/YWYirong.github.io/blob/main/resume.gif)
 
 ### 1. Create a repository
 
