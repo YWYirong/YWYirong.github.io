@@ -27,6 +27,7 @@ Here is a quick overview of when the project is finished:
 
 2. Name the repository *username.github.io*, and replace the username with your Github username.
 ```
+
 The first part of repository name has to match your username, otherwise it won't work.
 ```
 
@@ -87,26 +88,34 @@ Server address: http://127.0.0.1:4000/".
 
 3. Create a file name "*_/assets/css/style.scss_*", and copy the content provided from the theme repository.
 
-### 7. Add the resume on your website as a post
-1. Navigate to the publishing source for your site.
+### 7. Add the resume on your website
+* Navigate to the publishing source for your site.
 
-2. Located the "*_posts*" folder.
+* if you want to host the resume as a post:
+	1. Located the "*_posts*" folder.
 
-3.  Create a new file called  *YYYY-MM-DD-NAME-OF-POST.md*, replacing  *YYYY-MM-DD*  with the date of your post and  *NAME-OF-POST*  with the name of your post.
+	2.  Create a new file called  *YYYY-MM-DD-NAME-OF-POST.md*, replacing  *YYYY-MM-DD*  with the date of your post and  *NAME-OF-POST*  with the name of your post.
 
-4. Add the following YAML frontmatter to the file, where the layout should be a preferred style from the theme you choose, and the title will be shown as the title for the post. Change the date to your current time, and add categories as you want.
-```shell
----
-layout: post
-title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1
----
-```
+	3. Add the following YAML frontmatter to the file, where the layout should be a preferred style from the theme you choose, and the title will be shown as the title for the post. Change the date to your current time, and add categories as you want.
+		```shell
+		---
+		layout: post
+		title: "POST-TITLE"
+		date: YYYY-MM-DD hh:mm:ss -0000
+		categories: CATEGORY-1
+		---
+		```
 
-5. Add the formatted resume below the frontmatter.
+	4. Add the formatted resume below the frontmatter.
+	
+* if you want to show your resume directly on the GitHub Pages: 
+	1. Create or modify the index.md file in the root.
+	
+	2. Add the `layout: base`  YAML frontmatter on the top of the file, you can change the layout to the style you want.
 
-6. Now you can go on https://yourusername.github.io/ to check out your new website and online resume.
+	3. Add the formatted resume below the frontmatter.
+	
+* Now you can go on https://yourusername.github.io/ to check out your new website and online resume.
 
 
 ## More Resources
