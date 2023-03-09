@@ -4,7 +4,13 @@ How to host your resume on GitHub Pages with [Jekyll](https://jekyllrb.com/).
 
 ## Purpose
 
-The project aims to show you step-by-step how to use Github Pages with Jekyll (static site generator) to host our resume. As mentioned in the [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), a static site is fast, simple, portable, and secure, thus a great way to host your resume.
+The project aims to show you step-by-step how to use Github Pages with Jekyll (static site generator) to host your resume. 
+* Why should I follow this instructions?
+	* As mentioned in the [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), a static site is fast, simple, portable, and secure, thus a great way to host your resume.
+
+	* Andrew, in the same book, highlights that Markdown is a commonly used lightweight markup language for formatting text documents in a clean and easily readable format. Its widespread adoption is due to its straightforward syntax that is both easy to learn and utilize.
+	
+	* Markdown is  an ideal format for resumes because it is easy to read, write, and format. It allows for the creation of clear and concise text that is easily understandable by potential employers.
 
   
 ## Prerequisites
@@ -134,10 +140,10 @@ Thanks to Jesse Luoto for [README](https://github.com/jehna/readme-best-practice
 Thanks to [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for instructing me on how to create a Github Pages with Jekyll in the first place.
 
 And thanks to Reviewers:
-(insert group members for v2)
+-   Mia Battad
+-   Jiehao Lai
+-   Yash Vyas
 
-
-  
 
 ## FAQs
 
