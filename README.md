@@ -25,7 +25,7 @@ The project aims to show you step-by-step how to use Github Pages with Jekyll (s
 
 ## Instructions
 Here is a quick overview of when the project is finished:
-![](https://github.com/YWYirong/YWYirong.github.io/blob/main/resume.gif)
+![](https://github.com/YWYirong/YWYirong.github.io/blob/main/resume1.gif)
 
 ### 1. Create a repository
 
