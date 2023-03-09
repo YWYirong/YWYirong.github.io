@@ -5,7 +5,7 @@ layout: base
 
 # Yirong Wang
 
-Email: wangy27@myumanitoba.ca<br>
+Email: wangy27@myumanitoba.ca
 
 ## Education
 
